@@ -2,7 +2,7 @@
 C++ Workshop Resources Conducted by the Intellects Forum.
 
 ## Table Of contents:
-1. [Introduction](/intro.md) 
+1. [Introduction](/01-intro.md) 
 2. installation
 3. Hello World
 4. new line
