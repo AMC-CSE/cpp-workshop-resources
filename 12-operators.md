@@ -23,34 +23,34 @@ int x = 100 + 50;
 
 **Operator** | **Example** |
 --- | --- |
-= | x = 5 |
-+= | x += 5 |
--= | x -= 5 |
-*= | x *= 5 |
-/= | x /= 5 |
-%= | x %= 5 |
-&= | x &= 5 |
-|= | x |= 5 |
-^= | x ^= 5 |
->>= | x >>= 5 |
-<<= | x <<= 5 |
+| = | x = 5 |
+| += | x += 5 |
+| -= | x -= 5 |
+| *= | x *= 5 |
+| /= | x /= 5 |
+| %= | x %= 5 |
+| &= | x &= 5 |
+| |= | x |= 5 |
+| ^= | x ^= 5 |
+| >>= | x >>= 5 |
+| <<= | x <<= 5 |
 
 ## Comparison Operators
 
 **Operator** | **Name** | **Example** |
 --- | --- | --- |
-== | Equal to | x == y |
-!= | Not Equal To | x != y |
-> | Greater than | x > y |
-< | Less than | x < y |
->= | Greater than or equal to | x >= y |
-<= | Less than or equal to | x <= y |
+| == | Equal to | x == y |
+| != | Not Equal To | x != y |
+| > | Greater than | x > y |
+| < | Less than | x < y |
+| >= | Greater than or equal to | x >= y |
+| <= | Less than or equal to | x <= y |
 
 ## Logical Operators
 
 **Operator** | **Name** | **Example** |
 --- | --- | --- |
-&& | Logical and | x && y |
-|| | Logical or | x || y |
-! | Logical not | !(x && y) |
+| && | Logical and | x && y |
+| || | Logical or | x || y |
+| ! | Logical not | !(x && y) |
 
