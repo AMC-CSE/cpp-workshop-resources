@@ -29,7 +29,7 @@ Open Codeblocks and go to **File > New > Empty File**.
 
 Write the following C++ code and save the file as <code>myfirstprogram.cpp</code> **(File > Save File as)**:
 
-```
+```cpp
     #include <iostream>
     using namespace std;
 
