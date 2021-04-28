@@ -94,25 +94,25 @@ int main() {
 #include <string>
 using namespace std;
 
-// now lets consider a pig, it is an animal, consider animal to be a superclass and all of its children class may differ , this is called polymorphism
+// consider a vehicle, it can be of any brand, have different features but the same superclass of vehicle, i.e this is called polymorphism
 
-class Animal {
+class Vehicle {
     public:
-        void animal() {
-            cout << "i'm an animal";
-        }
+        string type: "car";
 };
 
-class pig: public Animal {
+class brand: public Vehicle {
     public:
-        void pig() {
-            cout << "i'm a pig i'm also an animal";
-        }
+        string brandname: "Ford";
 };
 
-class dog: public Animal {
+class model: public Vehicle, public brand{ // you can inherit multiple classes
     public:
-        void dog() {
-            cout << "i'm a dog i'm also an animal";
-        }
+        string model: "mustang";
 };
+
+void main() {
+    model myVehicle;
+ cout << myVehicle.brandname.model << "\n"; // this is called runtime polymorphism
+}
+
