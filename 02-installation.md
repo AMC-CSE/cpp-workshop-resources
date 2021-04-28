@@ -37,4 +37,3 @@ Write the following C++ code and save the file as <code>myfirstprogram.cpp</code
     }
 </code>
 
-## Source: W3Schools
