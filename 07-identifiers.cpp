@@ -11,6 +11,8 @@ int m = 60;
 
 
 /*
+Rules for naming identifiers:
+
 - Names can contain letters, digits and underscores
 - Names must begin with a letter or an underscore (_)
 - Names are case sensitive (myVar and myvar are different variables)
