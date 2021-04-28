@@ -38,6 +38,19 @@ void main() {
     }
 }
 
+// nested if statement
+
+#include <iostream>
+using namespace std;
+
+void main() {
+ if(condition 1) {
+  if(condition2) {
+   //execute something here.
+  }
+ }
+}
+
 // else-if statement syntax
 
 #include <iostream>
