@@ -27,7 +27,7 @@ void name(parameter 1, parameter 2, parameter 3)
 
 //Example
 #include <iostream>
-#include <string
+#include <string>
 using namespace std;
 
 void name(string fname) { // you have to pass in a string containing a name as a requirement
