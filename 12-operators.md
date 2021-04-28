@@ -51,6 +51,6 @@ int x = 100 + 50;
 **Operator** | **Name** | **Example** |
 --- | --- | --- |
 | && | Logical and | x && y |
-| "||" | Logical or | x || y |
+| two pipelines | Logical or | x || y |
 | ! | Logical not | !(x && y) |
 
