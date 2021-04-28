@@ -98,17 +98,17 @@ using namespace std;
 
 class Vehicle {
     public:
-        string type: "car";
+        string type = "car";
 };
 
 class brand: public Vehicle {
     public:
-        string brandname: "Ford";
+        string brandname = "Ford";
 };
 
 class model: public Vehicle, public brand{ // you can inherit multiple classes
     public:
-        string model: "mustang";
+        string model = "mustang";
 };
 
 void main() {
