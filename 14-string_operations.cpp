@@ -25,7 +25,7 @@ void main() {
     cout << fullName;
 }
 
-// to ger length of a string use the method length()
+// to get length of a string use the method length()
 
 #include <iostream>
 #include <string>
