@@ -25,7 +25,7 @@ You can find the latest version of Codeblocks at https://visualstudio.microsoft.
 
 Let's create our first C++ file.
 
-Open Codeblocks and go to **File > New > Empty File**.
+open Visual studio and create **New Project** save it with name (no extension required) **Ctrl+Shift+A**.
 
 Write the following C++ code and save the file as <code>myfirstprogram.cpp</code> **(File > Save File as)**:
 
