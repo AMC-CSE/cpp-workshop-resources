@@ -15,7 +15,7 @@ Popular IDE's include Code::Blocks, Eclipse, and Visual Studio. These are all fr
 
 **Note:**  Web-based IDE's can work as well, but functionality is limited.
 
-We will use **Code::Blocks** in our tutorial, which we believe is a good place to start.
+We will use **Visual Studio** in our tutorial, which we believe is a good place to start.
 
 You can find the latest version of Codeblocks at http://www.codeblocks.org/downloads/26. Download the <code>mingw-setup.exe</code> file, which will install the text editor with a compiler.
 
