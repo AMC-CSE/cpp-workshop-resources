@@ -11,13 +11,13 @@ int x = 100 + 50;
 
 **Operator name** | **name** | **Description** | **Example** |
 --- | --- | --- | --- |
-+ | addition | Adds together two values | x+y |
-- | subtraction | Subtracts one value from another | x-y |
-* | multiplication | Multiplies two values | x*y |
-/ | division | Divides one value by another | x/y |
-% | modulus | Returns the division remainder | x%y |
-++ | increment | Increases the value of a variable by 1 | ++x |
--- | decrement | Decreases the value of a variable by 1 | --x |
+| + | addition | Adds together two values | x+y |
+| - | subtraction | Subtracts one value from another | x-y |
+| * | multiplication | Multiplies two values | x*y |
+| / | division | Divides one value by another | x/y |
+| % | modulus | Returns the division remainder | x%y |
+| ++ | increment | Increases the value of a variable by 1 | ++x |
+| -- | decrement | Decreases the value of a variable by 1 | --x |
 
 ## Assignment Operators
 
