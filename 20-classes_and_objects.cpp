@@ -112,7 +112,7 @@ class model: public Vehicle, public brand{ // you can inherit multiple classes
 };
 
 void main() {
-    model myVehicle;
- cout << myVehicle.brandname.model << "\n"; // this is called runtime polymorphism
+   model myVehicle;
+   cout << myVehicle.brandname.model << "\n"; // this is called runtime polymorphism
 }
 
