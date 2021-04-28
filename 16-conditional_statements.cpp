@@ -44,7 +44,7 @@ void main() {
 using namespace std;
 
 void main() {
- if(condition 1) {
+ if(condition1) {
   if(condition2) {
    //execute something here.
   }
