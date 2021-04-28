@@ -17,7 +17,7 @@ Popular IDE's include Code::Blocks, Eclipse, and Visual Studio. These are all fr
 
 We will use **Visual Studio** in our tutorial, which we believe is a good place to start.
 
-You can find the latest version of Codeblocks at http://www.codeblocks.org/downloads/26. Download the <code>mingw-setup.exe</code> file, which will install the text editor with a compiler.
+You can find the latest version of Codeblocks at https://visualstudio.microsoft.com/vs/. Download the <code>mingw-setup.exe</code> file, which will install the text editor with a compiler.
 
 ## C++ Quickstart
 
