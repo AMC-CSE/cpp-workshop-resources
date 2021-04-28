@@ -22,4 +22,3 @@ C++ is fun and easy to learn!
 
 As C++ is close to C# and Java, it makes it easy for programmers to switch to C++ or vice versa
 
-## Source: W3Schools.com
