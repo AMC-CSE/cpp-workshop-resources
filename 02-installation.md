@@ -19,6 +19,8 @@ We will use **Visual Studio** in our tutorial, which we believe is a good place 
 
 You can find the latest version of Codeblocks at https://visualstudio.microsoft.com/vs/. Download the <code>mingw-setup.exe</code> file, which will install the text editor with a compiler.
 
+## Video Tutorial: https://www.youtube.com/watch?v=FBo5Cso-ufE.
+
 ## C++ Quickstart
 
 Let's create our first C++ file.
