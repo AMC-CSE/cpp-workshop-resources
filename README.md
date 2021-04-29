@@ -23,6 +23,8 @@ C++ Workshop Resources Conducted by the Intellects Forum.
 19. [functions](/19-functions.cpp)
 20. [classes and objects](/20-classes_and_objects.cpp)
 21. [operator overloading](/21-operator_overloading.cpp)
+22. [access specifiers](/22-access_specifiers.cpp)
+23. [encapsulation](/23-encapsulation.cpp)
 
 # For more awesome content join the Intellects Discord
 1. Get latest developments in the tech industry.
