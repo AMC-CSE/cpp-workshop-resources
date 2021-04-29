@@ -22,6 +22,7 @@ C++ Workshop Resources Conducted by the Intellects Forum.
 18. [references](/18-references.cpp)
 19. [functions](/19-functions.cpp)
 20. [classes and objects](/20-classes_and_objects.cpp)
+21. [operator overloading](/21-operator_overloading.cpp)
 
 # For more awesome content join the Intellects Discord
 1. Get latest developments in the tech industry.
