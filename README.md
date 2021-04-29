@@ -29,4 +29,4 @@ C++ Workshop Resources Conducted by the Intellects Forum.
 3. Countless resources to learn new technologies and languages.
 4. miscellaneous channels like gaming, anime&manga, book-discussion, etc.
 
-<img src="https://miro.medium.com/max/800/1*_AsB_hCguMYC-wEG2Bidmw.png" href="https://discord.gg/8N2QjEc2K4"/>
+<a href="https://discord.gg/8N2QjEc2K4"><img src="https://miro.medium.com/max/800/1*_AsB_hCguMYC-wEG2Bidmw.png"/></a>
