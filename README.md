@@ -29,4 +29,4 @@ C++ Workshop Resources Conducted by the Intellects Forum.
 3. Countless resources to learn new technologies and languages.
 4. miscellaneous channels like gaming, anime&manga, book-discussion, etc.
 
-[![](https://cdn.hearthstonetopdecks.com/wp-content/uploads/2017/05/featured-discord.jpg)](https://discord.gg/8N2QjEc2K4)
+<img src="https://cdn.hearthstonetopdecks.com/wp-content/uploads/2017/05/featured-discord.jpg" href="https://discord.gg/8N2QjEc2K4" height="400" width="400"/>
