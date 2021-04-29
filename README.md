@@ -22,3 +22,11 @@ C++ Workshop Resources Conducted by the Intellects Forum.
 18. [references](/18-references.cpp)
 19. [functions](/19-functions.cpp)
 20. [classes and objects](/20-classes_and_objects.cpp)
+
+# For more awesome content join the Intellects Discord
+1. Get latest developments in the tech industry.
+2. Friendly community.
+3. Countless resources to learn new technologies and languages.
+4. miscellaneous channels like gaming, anime&manga, book-discussion, etc.
+
+[![](https://cdn.hearthstonetopdecks.com/wp-content/uploads/2017/05/featured-discord.jpg)](https://discord.gg/8N2QjEc2K4)
