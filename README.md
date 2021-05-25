@@ -24,8 +24,13 @@ C++ Workshop Resources Conducted by the Intellects Forum. P.S this repo is const
 20. [classes and objects](/20-classes_and_objects.cpp)
 21. [operator overloading](/21-operator_overloading.cpp)
 22. [access specifiers](/22-access_specifiers.cpp)
+<<<<<<< HEAD
 23. [encapsulation](/23-encapsulation.cpp)
 24. [vectors](/24-vectors.cpp) 
+=======
+23. [encapsulation](/23-encapsulatio.cpp)
+24. [vectors](/24-vectors.cpp) [half done]
+>>>>>>> 7e42767949bc65df2d28edaf38108f5bdfaf7ce3
 
 
 # For more awesome content join the Intellects Discord
