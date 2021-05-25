@@ -1,5 +1,5 @@
 # cpp-workshop-resources
-C++ Workshop Resources Conducted by the Intellects Forum.
+C++ Workshop Resources Conducted by the Intellects Forum. P.S this repo is constantly being updated for more advanced cpp features, if you would like to contribute do not hesitate to initiate a pull request.
 
 ## Table Of contents:
 1. [Introduction](/01-intro.md) 
@@ -23,6 +23,9 @@ C++ Workshop Resources Conducted by the Intellects Forum.
 19. [functions](/19-functions.cpp)
 20. [classes and objects](/20-classes_and_objects.cpp)
 21. [operator overloading](/21-operator_overloading.cpp)
+22. [access specifiers](/22-access_specifiers.cpp)
+23. [encapsulation](/23-encapsulatio.cpp)
+24. [vectors](/24-vectors.cpp) [half done]
 
 # For more awesome content join the Intellects Discord
 1. Get latest developments in the tech industry.
